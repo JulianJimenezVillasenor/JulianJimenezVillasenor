@@ -40,7 +40,7 @@ Aquí puedes ver un resumen de mi actividad:
 ¿Tienes alguna idea interesante o simplemente quieres saludar? ¡Hablemos!
 
 - 📧 Email: [jj908033@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/julian-jimenez-4073b63ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 LinkedIn: [linkedin.com/in/julian-jimenez-villaseñor](https://linkedin.com/in/julian-jimenez-4073b63ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 "El código es como el humor: cuando tienes que explicarlo, es malo." – *Cory House*
