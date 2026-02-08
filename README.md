@@ -30,8 +30,8 @@ Me apasiona construir soluciones tecnológicas que resuelvan problemas reales. A
 
 Aquí puedes ver un resumen de mi actividad:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[JulianJimenezVillasenor]&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[JulianJimenezVillasenor]&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianJimenezVillasenor&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianJimenezVillasenor&layout=compact&theme=radical)
 
 ---
 
