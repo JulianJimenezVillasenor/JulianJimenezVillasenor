@@ -2,7 +2,7 @@
 
 ### Estudiante de Desarrollo de Software Multiplataforma
 
-Me apasiona construir soluciones tecnológicas que resuelvan problemas reales. Actualmente, estoy enfocado en la creacion de Software Multiplataforma y colaborando en proyectos de código abierto.
+Me apasiona construir soluciones tecnológicas que resuelvan problemas reales. Actualmente, estoy enfocado en la creacion de Paginas Web y colaborando en proyectos de código abierto.
 
 ---
 
