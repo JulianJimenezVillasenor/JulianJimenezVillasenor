@@ -26,7 +26,7 @@ Me apasiona construir soluciones tecnológicas que resuelvan problemas reales. A
 | **Glosario Interactivo** | Glosario interactivo en forma de cuadernillo sobre conceptos fundamentales de Estructuras de Datos. | `HTML` `Javascript` `CSS` | [Ver Repo](https://github.com/JulianJimenezVillasenor/Glosario-Estructura-de-Datos-) |
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas de GitHub 
 
 Aquí puedes ver un resumen de mi actividad:
 
